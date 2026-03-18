@@ -8,7 +8,6 @@ I’m **Kanak Patel**, an AI/ML developer pursuing an **Integrated B.Tech + M.Te
 
 - 🌍 I'm based in **India**
 - 🤝 I'm open to collaborating on **Machine Learning projects**
-- ⚡ I enjoy solving **DSA and AI problems**
 - 💻 Portfolio:- **[https://v0-kanak-patel.vercel.app/](https://v0-kanak-patel.vercel.app/)**
 
 ---
