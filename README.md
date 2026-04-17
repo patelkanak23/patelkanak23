@@ -60,6 +60,10 @@ I’m **Kanak Patel**, an AI/ML developer pursuing an **Integrated B.Tech + M.Te
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
 </a>
 
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="50" height="50"/>
+</a>
+
 </p>
 
 ---
