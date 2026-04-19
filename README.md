@@ -14,60 +14,27 @@ I’m **Kanak Patel**, an AI/ML developer pursuing an **Integrated B.Tech + M.Te
 
 ## Languages and Tools:
 
-<p align="left">
+<table>
+<tr>
+<td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/></a></td>
+<td><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/></a></td>
+<td><a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/></a></td>
+<td><a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/></a></td>
+<td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></a></td>
+<td><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/></a></td>
+</tr>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.kaggle.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.langchain.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="50" height="50"/>
-</a>
-
-</p>
+<tr>
+<td><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/></a></td>
+<td><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a></td>
+<td><a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/></a></td>
+<td><a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50"/></a></td>
+<td><a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/></a></td>
+<td><a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="50"/></a></td>
+</tr>
+</table>
 
 ---
-
 ### Socials
 
 <p align="left">
