@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm Kanak Patel</h1>
+<h1 align="left">
+  Hey 
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="35">
+  ,I'm Kanak Patel
+</h1>
 
 ---
 
@@ -47,4 +51,7 @@ I’m **Kanak Patel**, an AI/ML developer pursuing an **Integrated B.Tech + M.Te
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+</p>
+<p align="left">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" width="450"/>
 </p>
